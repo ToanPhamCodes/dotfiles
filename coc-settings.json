@@ -1,0 +1,10 @@
+{
+    
+    "java.completion.enabled": true,
+    "java.format.enabled": true,
+    "java.enabled": true,
+    "pyright.inlayHints.enable": false,
+    "snippets.ultisnips.pythonPrompt": false
+}
+
+
